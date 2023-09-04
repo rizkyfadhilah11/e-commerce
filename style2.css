@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+}
+.global-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-form {
+  width: 400px;
+  height: 460px;
+  padding: 20px;
+  border: 1px solid;
+  background: #24262b;
+}
+.card-tittle {
+  font-weight: 500;
+  color: #fff;
+  padding-top: 30px;
+}
+.form-check {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1rem;
+}
+.form-check:hover {
+  color: salmon;
+}
+.card-text {
+  color: #fff;
+}
+.btn:hover {
+  color: salmon;
+}
+.register-form {
+  width: 550px;
+  height: 650px;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid;
+  background: #24262b;
+}
